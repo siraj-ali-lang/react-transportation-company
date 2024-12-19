@@ -62,3 +62,25 @@
 @keyframes glow{
     50%{box-shadow: 0px 0px 50px blue}
 }
+
+@media (max-width: 700px){
+    .container{
+        padding: 0 30px;
+        max-width: 1360px;
+
+        .button{
+
+            button{
+                padding: 8px 10px;
+            }
+        }
+        .logo{
+
+            h1{
+                color: #ffffff;
+                font-size: 20px;
+                margin-left: 10px;
+            }
+        }
+    }
+}
