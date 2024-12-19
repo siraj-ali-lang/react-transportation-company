@@ -19,6 +19,9 @@ const Navbar = ()=> {
                 }
             </ul>
         </div>
+        <div className="button">
+            <a href="#"><button>Sign up</button></a>
+        </div>
     </div>
 }
 export default Navbar

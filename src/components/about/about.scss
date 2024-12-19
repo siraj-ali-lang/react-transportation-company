@@ -5,6 +5,7 @@
     margin-bottom: 0;
     
     
+    
 
 
     .title{
@@ -24,6 +25,7 @@
         flex-wrap: wrap;
         background-color: hsla(0, 0%, 0%, 0.473);
         padding-left: 4px;
+        gap: 10px;
         
 
 
@@ -34,6 +36,7 @@
             align-items: center;
             flex-direction: column;
             min-width: 460px;
+            direction: rtl;
 
             .styled-h1{
                 font-weight: 100;

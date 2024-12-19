@@ -30,6 +30,25 @@
         animation-duration: 3s;
         animation-iteration-count: infinite;
     }
+
+    .button{
+
+        button{
+            padding: 8px 25px;
+            background-color: rgba(4, 167, 231, 0.747);
+            border: none;
+            color: #fff;
+            border-radius: 8px;
+            cursor: pointer;
+        }
+        button:hover{
+            background-color: rgba(5, 107, 148, 0.747);
+        }
+        button:active{
+            background-color: rgba(45, 131, 165, 0.747);
+            color: #0a0a0a;
+        }
+    }
 }
 @media (max-width:800px){
     .links ul li a{

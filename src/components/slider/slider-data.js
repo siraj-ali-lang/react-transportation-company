@@ -7,27 +7,27 @@ import img5 from '../images/transport-img/ship-5.jpg'
 export const sliderData = [
     {
         image: img1,
-        heading: 'slide one',
-        desc: 'this is the description of the slide one extracted by lorem html attribute that collects random text for web developers , it inhances web development experience'
+        heading: 'DEFEAT COMPANY',
+        desc: "At [DEFEAT COMPANY], we provide comprehensive shipping services that connect China and Dubai, with a strong commitment to delivering the highest levels of quality and reliability to our customers."
     },
     {
         image: img2,
-        heading: 'slide two',
-        desc: 'this is the description of the slide one extracted by lorem html attribute that collects random text for web developers , it inhances web development experience'
+        heading: 'DEFEAT COMPANY',
+        desc: "At [DEFEAT COMPANY], we provide comprehensive shipping services that connect China and Dubai, with a strong commitment to delivering the highest levels of quality and reliability to our customers."
     },
     {
         image: img3,
-        heading: 'slide tree',
-        desc: 'this is the description of the slide one extracted by lorem html attribute that collects random text for web developers , it inhances web development experience'
+        heading: 'DEFEAT COMPANY',
+        desc: "At [DEFEAT COMPANY], we provide comprehensive shipping services that connect China and Dubai, with a strong commitment to delivering the highest levels of quality and reliability to our customers."
     },
     {
         image: img4,
-        heading: 'slide four',
-        desc: 'this is the description of the slide one extracted by lorem html attribute that collects random text for web developers , it inhances web development experience'
+        heading: 'DEFEAT COMPANY',
+        desc: "At [DEFEAT COMPANY], we provide comprehensive shipping services that connect China and Dubai, with a strong commitment to delivering the highest levels of quality and reliability to our customers."
     },
     {
         image: img5,
-        heading: 'slide five',
-        desc: 'this is the description of the slide one extracted by lorem html attribute that collects random text for web developers , it inhances web development experience'
+        heading: 'DEFEAT COMPANY',
+        desc: "At [DEFEAT COMPANY], we provide comprehensive shipping services that connect China and Dubai, with a strong commitment to delivering the highest levels of quality and reliability to our customers."
     }
 ]
